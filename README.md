@@ -1,7 +1,7 @@
 EmitKnowledge Data Dump
 =========
 
-Public data from our first product Emit Knowledge - knowledge based social network for nerds to write/share/read the stuff they love
+Public data from our first product [Emit Knowledge](http://www.emitknowledge.com) - knowledge based social network for nerds to write/share/read the stuff they love
 
 ![alt text](https://raw2.github.com/EmitKnowledge/EmitKnowledge.DataDump/master/Home.png "Screenshot")
 
